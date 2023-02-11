@@ -1,6 +1,3 @@
-//Professor Fant
-//Prog1
-//10/23/2019
 //The purpose of this program is to simulate a battle Royale.
 //The player has creatures of her choosing to battle the computer.
 //Player can attack and view her health. 

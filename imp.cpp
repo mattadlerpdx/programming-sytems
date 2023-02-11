@@ -1,7 +1,3 @@
-//Matthew Adler
-//Professor Fant
-//Prog1
-//10/23/2019
 //The purpose of this program is to simulate a battle Royale.
 //Body is the base class and holds hierarchy: fairy, prince, dragon
 //Event: volcanoe, lost weapon

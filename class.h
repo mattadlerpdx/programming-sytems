@@ -1,7 +1,3 @@
-//Matthew Adler
-//Professor Fant
-//Prog1
-//10/23/2019
 //This file manages the header for all classes:
 //Character: fairy, prince, dragon
 //Event: volcanoe, lost weapon
